@@ -3,6 +3,9 @@ package Arrays;
 import java.util.Arrays;
 
 public class Shift_Zero_Toward_Right {
+	public void m1(){
+		System.out.println("Check");
+	}
 public static void main(String[] args) {
 		int[] arr= {0,0,0,0,0,0,0,0,0,0,8,9};
 	int index=0;
